@@ -1,0 +1,15 @@
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/projekt
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/projekt.deps.json
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/projekt.runtimeconfig.json
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/projekt.dll
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/ref/projekt.dll
+/Users/lisabacklin/Desktop/skola2/C#/projekt/bin/Debug/net6.0/projekt.pdb
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.csproj.AssemblyReference.cache
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.AssemblyInfoInputs.cache
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.AssemblyInfo.cs
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.csproj.CoreCompileInputs.cache
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.dll
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/ref/projekt.dll
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.pdb
+/Users/lisabacklin/Desktop/skola2/C#/projekt/obj/Debug/net6.0/projekt.genruntimeconfig.cache
